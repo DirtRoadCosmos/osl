@@ -29,11 +29,11 @@ body::before {
 body {
   background-image: linear-gradient(
       rgba(255, 255, 255, 1),
-      rgba(255, 255, 255, 0.9)
+      rgba(255, 255, 255, 0.7)
     ),
     url("../images/dice.png");
   background-repeat: no-repeat;
   background-position: center center;
   background-attachment: fixed;
-  background-size: 40%;
+  background-size: 50%;
 }
